@@ -150,6 +150,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="game.cpp" />
     <ClCompile Include="HighAndLow.cpp" />
     <ClCompile Include="Setting.cpp" />
     <ClCompile Include="stdafx.cpp">
